@@ -1,0 +1,12 @@
+Videos Application
+
+Components
+         SearchBar
+               {VideoList}
+  VideoDetail  VideoItem1
+               VideoItem2
+               VideoItem3
+
+          App
+SearchBar  VideoDetail  VideoList
+                        VideoItem
